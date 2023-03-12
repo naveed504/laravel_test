@@ -29,6 +29,8 @@
                 $first = $array[$i];
             }
 
+            
+            
             else if ($array[$i] > $second)
             {
                 $third = $second;
